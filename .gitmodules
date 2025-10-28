@@ -1,0 +1,3 @@
+[submodule "dep/Desktop-CNC-Frame-Sub-Assembly"]
+	path = dep/Desktop-CNC-Frame-Sub-Assembly
+	url = git@github.com:Desktop-CNC/Desktop-CNC-Frame-Sub-Assembly.git
