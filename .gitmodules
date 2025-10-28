@@ -1,3 +1,6 @@
 [submodule "dep/Desktop-CNC-Frame-Sub-Assembly"]
 	path = dep/Desktop-CNC-Frame-Sub-Assembly
 	url = git@github.com:Desktop-CNC/Desktop-CNC-Frame-Sub-Assembly.git
+[submodule "dep/Standard-CAD-Library"]
+	path = dep/Standard-CAD-Library
+	url = git@github.com:Desktop-CNC/Standard-CAD-Library.git
