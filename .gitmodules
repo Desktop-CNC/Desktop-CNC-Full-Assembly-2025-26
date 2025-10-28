@@ -10,3 +10,6 @@
 [submodule "dep/Desktop-CNC-Head-Sub-Assembly"]
 	path = dep/Desktop-CNC-Head-Sub-Assembly
 	url = git@github.com:Desktop-CNC/Desktop-CNC-Head-Sub-Assembly.git
+[submodule "dep/Desktop-CNC-Enclosure-Sub-Assembly"]
+	path = dep/Desktop-CNC-Enclosure-Sub-Assembly
+	url = git@github.com:Desktop-CNC/Desktop-CNC-Enclosure-Sub-Assembly.git
