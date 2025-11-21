@@ -1,0 +1,3 @@
+[submodule "deps/Desktop-CNC-Enclosure-Sub-Assembly"]
+	path = deps/Desktop-CNC-Enclosure-Sub-Assembly
+	url = git@github.com:Desktop-CNC/Desktop-CNC-Enclosure-Sub-Assembly.git
