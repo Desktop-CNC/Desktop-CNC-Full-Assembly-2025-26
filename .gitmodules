@@ -10,3 +10,6 @@
 [submodule "deps/Desktop-CNC-Working-Area-Sub-Assembly"]
 	path = deps/Desktop-CNC-Working-Area-Sub-Assembly
 	url = git@github.com:Desktop-CNC/Desktop-CNC-Working-Area-Sub-Assembly.git
+[submodule "deps/Standard-CAD-Library"]
+	path = deps/Standard-CAD-Library
+	url = git@github.com:Desktop-CNC/Standard-CAD-Library.git
