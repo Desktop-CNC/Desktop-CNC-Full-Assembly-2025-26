@@ -7,3 +7,6 @@
 [submodule "deps/Desktop-CNC-Head-Sub-Assembly"]
 	path = deps/Desktop-CNC-Head-Sub-Assembly
 	url = git@github.com:Desktop-CNC/Desktop-CNC-Head-Sub-Assembly.git
+[submodule "deps/Desktop-CNC-Working-Area-Sub-Assembly"]
+	path = deps/Desktop-CNC-Working-Area-Sub-Assembly
+	url = git@github.com:Desktop-CNC/Desktop-CNC-Working-Area-Sub-Assembly.git
